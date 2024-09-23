@@ -58,7 +58,8 @@ I have some adorable pets that keep my life exciting!
 
 <p align="center">
   <!-- Replace 'pet1.jpg', 'pet2.jpg', etc., with the actual image paths -->
-  <img src="pet1.jpg" alt="Pet 1" width="200"/>
+  <img src="cat1.jpg" alt="Pet 1" width="200"/>
+  <img src="cat2.jpg" alt="Pet 1" width="200"/>
   
 </p>
 
