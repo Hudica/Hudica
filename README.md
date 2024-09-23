@@ -47,8 +47,10 @@ I'm a passionate developer and lifelong learner exploring the endless possibilit
 
 ### 📈 GitHub Stats
 
-<p align="center"> <img height="160em" src="https://sentiment-analysis-pi-eight.vercel.app/api?username=Hudica&show_icons=true&theme=radical&count_private=true" alt="Hudson's GitHub stats" /> <img height="160em" src="https://sentiment-analysis-pi-eight.vercel.app/?user=Hudica&theme=radical&count_private=true" alt="Hudson's GitHub Streak" /> </p>
-
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hudica&show_icons=true&theme=radical&count_private=true" alt="Hudson's GitHub stats" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hudica&theme=radical" alt="Hudson's GitHub Streak" />
+</p>
 ---
 
 ### 📰 My Passion
