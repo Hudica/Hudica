@@ -31,9 +31,8 @@ I'm a passionate developer and lifelong learner exploring the endless possibilit
 
 ### 📫 How to Reach Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudsonkass)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/HudsonKass)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hudson@kass.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudson-kass)
 
 ---
 
@@ -41,35 +40,21 @@ I'm a passionate developer and lifelong learner exploring the endless possibilit
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-hudica.vercel.app/api?username=Hudica&show_icons=true&theme=radical&count_private=true" alt="Hudson's GitHub stats" />
-  <img height="160em" src="https://github-readme-streak-stats-hudica.vercel.app/?user=Hudica&theme=radical&count_private=true" alt="Hudson's GitHub Streak" />
-</p>
+<p align="center"> <img height="160em" src="https://sentiment-analysis-pi-eight.vercel.app/api?username=Hudica&show_icons=true&theme=radical&count_private=true" alt="Hudson's GitHub stats" /> <img height="160em" src="https://sentiment-analysis-pi-eight.vercel.app/?user=Hudica&theme=radical&count_private=true" alt="Hudson's GitHub Streak" /> </p>
 
 ---
 
-### 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-hudica.vercel.app/api/top-langs/?username=Hudica&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📰 Latest from Brightside Newsletter
+### 📰 My Passion
 
 - [Embracing Change: How Technology Drives Personal Growth](#)
-- [Top 5 Cloud Computing Trends in 2024](#)
-- [Getting Started with Machine Learning: A Beginner's Guide](#)
+
 
 ---
 
@@ -94,28 +79,13 @@ I have several adorable pets that keep my life exciting! They even inspire some 
 
 ---
 
-### 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/Hudica/Project1">
-    <img align="center" src="https://github-readme-stats-hudica.vercel.app/api/pin/?username=Hudica&repo=Project1&theme=radical" />
-  </a>
-  <a href="https://github.com/Hudica/Project2">
-    <img align="center" src="https://github-readme-stats-hudica.vercel.app/api/pin/?username=Hudica&repo=Project2&theme=radical" />
-  </a>
-</p>
-
----
-
 ### 🌐 Find Me Around the Web
 
-- **Personal Website:** [hudsonkass.com](https://www.hudsonkass.com)
-- **Medium:** [medium.com/@hudsonkass](https://medium.com/@hudsonkass)
-- **Dev.to:** [dev.to/hudsonkass](https://dev.to/hudsonkass)
+- **Personal Website:** [hudsonkass.com](https://www.hudica.info)
 
 ---
 
-*Last Updated: [Date]*
+*Last Updated: [9/23/2024]*
 
 ---
 
