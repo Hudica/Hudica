@@ -45,18 +45,12 @@ I'm a passionate developer and lifelong learner exploring the endless possibilit
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hudica&show_icons=true&theme=radical&count_private=true" alt="Hudson's GitHub stats" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hudica&theme=radical" alt="Hudson's GitHub Streak" />
-</p>
----
 
 ### 📰 My Passion
 
-- [Embracing Change: How Technology Drives Personal Growth](#)
+Promoting positivity and accessibility in computer science is at the heart of everything I do. Through my **Brightside Newsletter**, I strive to make technology approachable and inspiring for everyone.
 
+- [Brightside Newsletter](https://news.hudica.info) — Dive into insightful stories that aim to brighten your day and expand your knowledge in the tech world.
 
 ---
 
