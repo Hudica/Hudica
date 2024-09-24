@@ -21,9 +21,8 @@ I'm a passionate developer and lifelong learner exploring the endless possibilit
 - 😄 **Pronouns:** He/Him
 
 - ⚡ **Fun Facts:**
-  - I have a bunch of pets that keep life exciting.
   - I believe in the power of technology to make the world a better place.
-  - When I'm not coding, you might find me exploring nature or reading up on the latest tech trends.
+  - When I'm not coding, you might find me exploring my beautiful state of Washington or cooking.
 
 ---
 
