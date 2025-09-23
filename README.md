@@ -6,9 +6,6 @@
 
 I'm a passionate developer and lifelong learner exploring the endless possibilities of technology.
 
-- 🔭 **Currently Working On:**
-  - **Brightside Newsletter** 🌞 — A weekly dose of positivity and inspiration from the world of tech and beyond.
-
 - 🌱 **Currently Learning:**
   - Machine Learning (ML)
   - Cloud Computing
@@ -47,7 +44,7 @@ I'm a passionate developer and lifelong learner exploring the endless possibilit
 
 Promoting positivity and accessibility in computer science is at the heart of everything I do. Through my **Brightside Newsletter**, I strive to make technology approachable and inspiring for everyone.
 
-- [Brightside Newsletter](https://news.hudica.info) — Dive into insightful stories that aim to brighten your day and expand your knowledge in the tech world.
+- [Brightside Newsletter](https://news.hudica.com) — Dive into insightful stories that aim to brighten your day and expand your knowledge in the tech world.
 
 ---
 
@@ -74,11 +71,7 @@ I have some adorable pets that keep my life exciting!
 
 ### 🌐 Find Me Around the Web
 
-- **Personal Website:** [hudsonkass.com](https://www.hudica.info)
-
----
-
-*Last Updated: [9/23/2024]*
+- **Personal Website:** [hudica.com](https://www.hudica.com)
 
 ---
 
